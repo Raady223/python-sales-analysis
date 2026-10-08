@@ -1,0 +1,16 @@
+order_id,product,category,price,quantity,city,date
+1001,Laptop,Electronics,3500,1,Dubai,2026-01-05
+1002,Mouse,Electronics,120,2,Abu Dhabi,2026-01-07
+1003,Office Chair,Furniture,650,1,Dubai,2026-01-10
+1004,Keyboard,Electronics,250,1,Sharjah,2026-01-12
+1005,Desk,Furniture,900,1,Abu Dhabi,2026-01-15
+1006,Monitor,Electronics,1100,2,Dubai,2026-02-02
+1007,Laptop,Electronics,3600,1,Abu Dhabi,2026-02-05
+1008,Office Chair,Furniture,700,2,Sharjah,2026-02-08
+1009,Mouse,Electronics,130,3,Dubai,2026-02-12
+1010,Desk,Furniture,950,1,Dubai,2026-02-18
+1011,Keyboard,Electronics,270,2,Abu Dhabi,2026-03-03
+1012,Monitor,Electronics,1150,1,Sharjah,2026-03-06
+1013,Laptop,Electronics,3400,1,Dubai,2026-03-10
+1014,Desk,Furniture,880,2,Abu Dhabi,2026-03-14
+1015,Mouse,Electronics,125,4,Sharjah,2026-03-20
